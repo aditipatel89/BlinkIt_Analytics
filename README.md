@@ -16,7 +16,7 @@ This project presents a real-world dashboard built in **Power BI** to analyze th
 ## 📁 Files Included
 
 - `BlinkIt_Analytics.pbix` – Power BI dashboard file  
-- `Screeshot_BlinkIt_Dashboard.png` – Dashboard screenshot  
+- `Screeshot_BlinkIt_Dashboard.jpg` – Dashboard screenshot  
 - `README.md` – Project documentation (this file)  
 
 ---
@@ -44,7 +44,7 @@ This project presents a real-world dashboard built in **Power BI** to analyze th
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="Screeshot_BlinkIt_Dashboard.png" alt="BlinkIt Dashboard Preview" width="700"/>
+  <img src="Screeshot_BlinkIt_Dashboard.jpg" alt="BlinkIt Dashboard Preview" width="700"/>
 </p>
 
 ---

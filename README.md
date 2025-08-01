@@ -1,71 +1,71 @@
 # 📊 BlinkIt Analytics Dashboard – Power BI Project
 
-This project presents an end-to-end analytics dashboard built in **Power BI**, focused on business performance tracking for BlinkIt (Grofers). It demonstrates core data analysis skills including data modeling, transformation, DAX calculations, and dashboard storytelling.
+This project presents a real-world dashboard built in **Power BI** to analyze the performance of BlinkIt (formerly Grofers), a hyperlocal grocery delivery service. The dashboard enables deep insights into sales, delivery efficiency, and customer behavior using advanced **DAX**, **Power Query**, and data modeling techniques.
 
 ---
 
-## 🔧 Tools & Technologies Used
+## 🔧 Tools & Technologies
 
-- **Power BI** – Dashboard development, KPIs, DAX calculations
-- **Power Query** – Data cleaning and transformation
-- **DAX** – Calculated measures, filters, and time intelligence
-- **Excel** – Used for data preprocessing
-
----
-
-## 📁 Project Files
-
-- `BlinkIt_Analytics.pbix` – Main Power BI dashboard file
-- `Screeshot_BlinkIt_Dashboard.jpg` – Preview of the final dashboard
+- **Power BI** – Visualizations, DAX calculations, dashboard creation  
+- **Power Query** – Data cleaning and transformation  
+- **DAX** – Custom KPIs and time-based measures  
+- **Excel (optional)** – For initial data structuring or exports  
 
 ---
 
-## 📊 Dashboard Overview
+## 📁 Files Included
 
-- Dynamic visuals for sales, delivery metrics, and customer engagement  
-- Data model designed using multiple connected tables  
-- KPIs include Total Revenue, Monthly Orders, Avg. Delivery Time, and Category Breakdown  
-- Interactive slicers and filters for better user-driven exploration  
-- Designed for fast insights and executive-level decision-making
+- `BlinkIt_Analytics.pbix` – Power BI dashboard file  
+- `Screeshot_BlinkIt_Dashboard.png` – Dashboard screenshot  
+- `README.md` – Project documentation (this file)  
 
 ---
 
-## 📌 Key Skills Demonstrated
+## 📊 Dashboard Highlights
 
-- Intermediate to advanced use of **Power BI**, **Power Query**, and **DAX**
-- Cleaning and modeling large datasets
-- Automation of report refresh and integration logic
-- Storytelling through visuals and layout design
-- Strong focus on real-world business metrics
-- Strategic thinking in dashboard structure and metric selection
+- KPIs: Total Revenue, Avg. Delivery Time, Monthly Orders, Profit Margin  
+- Visuals: Interactive bar charts, line graphs, category slicers  
+- Features: Drill-down views, DAX-based time intelligence, user-friendly layout  
+- Built-in refresh and process optimization using Power Query  
+
+---
+
+## 📌 Skills Demonstrated
+
+- Intermediate/Advanced Power BI usage  
+- Strong DAX logic and calculated columns/measures  
+- Power Query transformations and data modeling  
+- Visual storytelling with business impact  
+- Clean layout and user-driven filtering for exploration  
+- Independent project execution and presentation-ready output  
 
 ---
 
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="Screeshot_BlinkIt_Dashboard.jpg" alt="BlinkIt Dashboard Preview" width="700"/>
+  <img src="Screeshot_BlinkIt_Dashboard.png" alt="BlinkIt Dashboard Preview" width="700"/>
 </p>
 
 ---
 
-## 📁 How to Use
+## 🚀 How to Use
 
-1. Download `BlinkIt_Analytics.pbix`
-2. Open in **Power BI Desktop**
-3. Replace or connect to your own data if needed
-4. Explore filters, slicers, and visuals
+1. Download `BlinkIt_Analytics.pbix`  
+2. Open in Power BI Desktop  
+3. Explore filters, KPIs, and visuals  
+4. Replace data source if using your own dataset  
 
 ---
 
-## ✍️ Author
+## 👩‍💼 Author
 
-**Aditi Patel** – Aspiring Data Analyst | Power BI Enthusiast  
-📫 [LinkedIn](https://www.linkedin.com/in/aditi-patel89/)
+**Aditi Patel** – Data Analyst | Power BI Developer  
+📫 [LinkedIn Profile](https://www.linkedin.com/in/aditi-patel89/)
 
 ---
 
 ## 📝 Notes
 
-- This project was built using mock/synthetic data for demonstration purposes only.
-- Inspired by real business cases for grocery delivery analytics.
+- The dashboard uses mock/sample data to simulate business performance.  
+- Inspired by real-world delivery analytics and built to showcase Power BI expertise.

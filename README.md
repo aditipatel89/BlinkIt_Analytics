@@ -16,7 +16,7 @@ This project presents an end-to-end analytics dashboard built in **Power BI**, f
 ## 📁 Project Files
 
 - `BlinkIt_Analytics.pbix` – Main Power BI dashboard file
-- `Screeshot_BlinkIt_Dashboard.png` – Preview of the final dashboard
+- `Screeshot_BlinkIt_Dashboard.jpg` – Preview of the final dashboard
 
 ---
 
@@ -44,7 +44,7 @@ This project presents an end-to-end analytics dashboard built in **Power BI**, f
 ## 📷 Screenshot
 
 <p align="center">
-  <img src="Screeshot_BlinkIt_Dashboard.png" alt="BlinkIt Dashboard Preview" width="700"/>
+  <img src="Screeshot_BlinkIt_Dashboard.jpg" alt="BlinkIt Dashboard Preview" width="700"/>
 </p>
 
 ---

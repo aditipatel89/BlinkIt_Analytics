@@ -8,12 +8,6 @@ This project presents a real-world dashboard built in **Power BI** to analyze th
 
 - **Power BI** – Visualizations, DAX calculations, dashboard creation  
 - **Power Query** – Data cleaning and transformation
-
-
-![image alt](https://github.com/aditipatel89/BlinkIt_Analytics/blob/5dba6fd7473fd9e998e9313238d028f909cf06bb/ss1.png)
-
-
-
 - **DAX** – Custom KPIs and time-based measures  
 - **Excel (optional)** – For initial data structuring or exports  
 
@@ -47,7 +41,14 @@ This project presents a real-world dashboard built in **Power BI** to analyze th
 
 ---
 
-## 📷 Screenshot
+## 📷 Screenshots
+
+SQL Queries for KPIs:
+![image](https://github.com/aditipatel89/BlinkIt_Analytics/blob/5dba6fd7473fd9e998e9313238d028f909cf06bb/ss1.png)
+![image](https://github.com/aditipatel89/BlinkIt_Analytics/blob/5dba6fd7473fd9e998e9313238d028f909cf06bb/ss2.png)
+![image](https://github.com/aditipatel89/BlinkIt_Analytics/blob/5dba6fd7473fd9e998e9313238d028f909cf06bb/ss3.png)
+![image](https://github.com/aditipatel89/BlinkIt_Analytics/blob/5dba6fd7473fd9e998e9313238d028f909cf06bb/ss4.png)
+![image](https://github.com/aditipatel89/BlinkIt_Analytics/blob/5dba6fd7473fd9e998e9313238d028f909cf06bb/ss5.png)
 
 <p align="center">
   <img src="Screeshot_BlinkIt_Dashboard.jpg" alt="BlinkIt Dashboard Preview" width="700"/>

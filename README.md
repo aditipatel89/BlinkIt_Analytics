@@ -7,7 +7,13 @@ This project presents a real-world dashboard built in **Power BI** to analyze th
 ## 🔧 Tools & Technologies
 
 - **Power BI** – Visualizations, DAX calculations, dashboard creation  
-- **Power Query** – Data cleaning and transformation  
+- **Power Query** – Data cleaning and transformation
+
+
+![image alt](https://github.com/aditipatel89/BlinkIt_Analytics/blob/5dba6fd7473fd9e998e9313238d028f909cf06bb/ss1.png)
+
+
+
 - **DAX** – Custom KPIs and time-based measures  
 - **Excel (optional)** – For initial data structuring or exports  
 
